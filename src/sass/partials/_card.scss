@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    flex-direction: row !important;
+    height: 130px;
+    width: 350px;
+
+    .btn {
+        max-height: 40px;
+        color: white;
+    }
+}

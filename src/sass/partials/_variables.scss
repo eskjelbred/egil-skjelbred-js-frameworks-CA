@@ -1,0 +1,19 @@
+// // make customizations to bootstrap colors and other variables here
+$color-primary: #2d82af;
+$color-dark: #273134;
+$color-light: white;
+$color-semidark: #354246;
+$color-muted: #757a7c;
+$color-warning: #ffc107;
+$color-danger: #dc3545;
+
+// function to handle change in variables to bootstrap colors
+$theme-colors: (
+    "primary": $color-primary,
+    "dark": $color-dark,
+    "light": $color-light,
+    "semidark": $color-semidark,
+    "muted": $color-muted,
+    "warning": $color-warning,
+    "danger": $color-danger,
+);
